@@ -1,0 +1,15 @@
+{
+  "name": "kamaljoshi/soap-php-yrc",
+  "description": "SOAP basic PHP YRC LTL carrier request",
+  "type": "project",
+  "require": {
+    "php": "^8.1",
+    "vlucas/phpdotenv": "^5.4"
+  },
+  "authors": [
+    {
+      "name": "Kamal Joshi",
+      "email": "kamal@solvative.com"
+    }
+  ]
+}
